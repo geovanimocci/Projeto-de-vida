@@ -2,7 +2,7 @@
 
 :root {
     --cor-de-fundo: #1E1E1E;
-    --preto: #6FFF57;
+    --azul: #000680;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
@@ -33,7 +33,7 @@ body {
 }
 
 .titulo-principal span {
-    color: var(--azul;
+    color: var(--azul);
 }
 
 
@@ -110,7 +110,7 @@ body {
 }
 
 .contador-digito-texto {
-    color: var(--verde);
+    color: var(--azul);
     font-size: 20px;
     margin: 0;
 
